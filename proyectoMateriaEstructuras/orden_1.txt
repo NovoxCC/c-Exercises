@@ -1,0 +1,5 @@
+Orden #1 para Cliente:
+1x Cafe Espresso - $2 c/u
+2x Cappuccino - $3 c/u
+Total: $8
+-----------------------
